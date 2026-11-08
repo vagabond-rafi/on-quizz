@@ -1,1 +1,1 @@
-On Quizz — A Java-based desktop examination system featuring user authentication, exam management, automated result processing, and assessment workflows. Tested 15+ examination scenarios covering login, exam submission, result calculation, and workflow transit
+On Quizz — A Java-based desktop examination system featuring user authentication, exam management, automated result processing, and assessment workflows. Tested 15+ examination scenarios covering login, exam submission, result calculation, and workflow transiti
